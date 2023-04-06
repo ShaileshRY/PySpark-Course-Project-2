@@ -1,1 +1,5 @@
-# PySpark_Course_Project_2
+# PySpark-Course-Project-2
+
+## - blending Python and SQL
+## - using pandas UDFs
+## - writing window functions

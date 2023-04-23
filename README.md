@@ -1,4 +1,4 @@
-# PySpark-Course-Project-2
+# PySpark Project: Advanced Analytics
 
 ## - blending Python and SQL
 ## - using pandas UDFs
